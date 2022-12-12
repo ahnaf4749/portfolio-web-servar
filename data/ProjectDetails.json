@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Phone jone",
+        "cetagory_id": "01",
+        "img1": "https://i.ibb.co/VSpPYd2/phone-1.png",
+        "img2": "https://i.ibb.co/P6Bthd4/ohone11.png",
+        "img3": "https://i.ibb.co/8nCx6Hh/phone-2.png",
+        "img4": "",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://resal-jone.web.app/",
+        "client_site_link": "https://github.com/ahnaf4749/phone-resale-jone-client",
+        "server_site_link": "https://github.com/ahnaf4749/phone-resale-jone-servar"
+    },
+    {
+        "name": "Woodworker",
+        "cetagory_id": "02",
+        "img1": "https://i.ibb.co/0D2xhBC/Screenshot-5.png",
+        "img2": "https://i.ibb.co/8bQKpJm/Screenshot-6.png",
+        "img3": "https://i.ibb.co/CMjVT0s/Screenshot-7.png",
+        "img4": "https://i.ibb.co/P6Bthd4/ohone11.png",
+        "details": [
+            "This is a woodworker service website. where people can book any woodworking services, they want",
+            "another way this website has a review section is any user can want to review this section",
+            "Users need to log in if they want to book services and give reviews.",
+            "This website has a add service section."
+        ],
+        "live_site_link": "https://assaienment-11.web.app/",
+        "client_site_link": "https://github.com/ahnaf4749/wood-worker-client",
+        "server_site_link": "https://github.com/ahnaf4749/wood-worker-servar"
+    },
+    {
+        "name": "Story book",
+        "cetagory_id": "03",
+        "img1": "https://i.ibb.co/x6QHpdC/Screenshot-8.png",
+        "img2": "https://i.ibb.co/64pvX1H/Screenshot-9.png",
+        "img3": "https://i.ibb.co/VqSxbdr/Screenshot-10.png",
+        "img4": "https://i.ibb.co/P6Bthd4/ohone11.png",
+        "details": [
+            "This is a  Storybook website",
+            "Users can buy any book they went. Users can see book details.",
+            "Users can download any book details PDF if they want.",
+            "This website is fully responsive."
+        ],
+        "live_site_link": "https://assaienment-10.web.app/",
+        "client_site_link": "https://github.com/ahnaf4749/story-book-client",
+        "server_site_link": "https://github.com/ahnaf4749/story-book-servar"
+    }
+]
